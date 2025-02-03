@@ -1,0 +1,5 @@
+/* In your global CSS file, like App.css or styles.css */
+.hidden {
+    display: none !important;
+  }
+  
