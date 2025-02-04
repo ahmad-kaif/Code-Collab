@@ -7,6 +7,7 @@ import roomRoutes from "./routes/roomRoutes";
 import chatRoutes from "./routes/chatRoutes";
 import { connectDB } from "./config/connectDb";
 
+
 dotenv.config();
 
 const app = express();
